@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
-.header {
-  text-align: center;
-}
+
+  .header {
+    text-align: center;
+  }
+
 }
 .main-elem {
   display: block;
@@ -30,7 +32,7 @@
 .task {
   width: 56%;
   display: inline-block;
-   flex-grow: 1
+  flex-grow: 1
 }
 .task-row-wrapper {
    display: flex;
